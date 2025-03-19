@@ -26,7 +26,7 @@
 
         1. **Clone the repository**:
             ```sh
-            git clone <repository-url>
+            git clone https://github.com/geekgod382/Tours-and-Travels-Project.git
             ```
 
         2. **Navigate to the project directory**:
