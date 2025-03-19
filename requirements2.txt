@@ -1,0 +1,7 @@
+datetime
+tabulate
+matplotlib
+numpy
+pandas
+csv
+mysql-connector-python
