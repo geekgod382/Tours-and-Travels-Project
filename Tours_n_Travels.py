@@ -10,7 +10,7 @@ import csv
 USER_NAME = None
 USER_EMAIL = None
 total = None
-connection = mysql.connector.connect(host = 'localhost', database = 'Tours_and_Travels', user = 'root', password = 'sps123456')
+connection = mysql.connector.connect(host = 'localhost', database = 'Tours_and_Travels', user = 'root', password = 'YOUR_MYSQL_PASSWORD')
 
                                                                                                         #SIGN IN MENU
 
